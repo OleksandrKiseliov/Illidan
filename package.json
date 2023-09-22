@@ -21,14 +21,14 @@
     "gulp-cli": "^2.3.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "concat": "^1.0.3",
-    "cssnano": "^6.0.1",
-    "gulp": "^4.0.2",
-    "gulp-concat": "^2.6.1",
-    "imagemin": "^8.0.1",
-    "rename": "^1.0.4",
-    "sass": "^1.68.0",
-    "uglify": "^0.1.5"
+    "autoprefixer": "latest",
+    "concat": "latest",
+    "cssnano": "latest",
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "imagemin": "latest",
+    "rename": "latest",
+    "sass": "^latest",
+    "uglify": "latest"
   }
 }
