@@ -64,3 +64,4 @@ gulp.task ( "watch", function () {
  });
  //Запуск тасків за замовчуванням
  gulp.task ( "default", [ "html", "sass", "scripts", "imgs", "watch"]);
+ 
